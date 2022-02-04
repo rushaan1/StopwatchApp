@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="preloaded_fonts" translatable="false">
+        <item>@font/</item>
+        <item>@font/autour_one</item>
+        <item>@font/belleza</item>
+        <item>@font/biryani</item>
+        <item>@font/cabin_semibold</item>
+        <item>@font/capriola</item>
+        <item>@font/roboto_mono_medium</item>
+    </array>
+</resources>
